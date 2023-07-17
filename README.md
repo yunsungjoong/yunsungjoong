@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <br /><br />
-
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -31,6 +30,10 @@
 
 <a href="https://yuns1994.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FC7E0F?style=for-the-badge"></a>
 <a href="mailto:yun_sj94@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+
+
+
+![yunsungjoong's github stats](https://github-readme-stats.vercel.app/api?username=yunsungjoong&show_icons=true)
 
 <!--
 **yunsungjoong/yunsungjoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
