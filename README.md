@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SungJoong%20Yun&fontSize=60)
 
 
-## Welcome 🤗, sungjoong's Github!
+## Welcome 🤗, sungjoong.yun Github!
 
 #### Front-End Engineer 🚀
 
